@@ -1,0 +1,14 @@
+# Gradle
+build/
+.gradle/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Compiled
+*.class
+
+# OS
+.DS_Store
