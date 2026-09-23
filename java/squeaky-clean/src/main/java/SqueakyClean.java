@@ -30,13 +30,7 @@ class SqueakyClean {
             }
 
         }
-        return sb.toString()
-                .replace(" ", "_")
-                .replace("3", "e")
-                .replace("0", "o")
-                .replace("1", "l")
-                .replace("4", "a")
-                .replace("7", "t");
+        return sb.toString();
 
     }
 }
