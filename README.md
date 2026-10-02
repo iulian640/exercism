@@ -8,7 +8,7 @@ My solutions to the [Exercism](https://exercism.org/profiles/iulian640) Java tra
 |--------|----------|--------|--------|
 | [`java/hello-world/`](java/hello-world/) | Hello World | Methods, return values | Done |
 | [`java/lasagna/`](java/lasagna/) | Lasagna | Method parameters, arithmetic, calling one method from another | Done |
-| [`java/annalyns-infiltration/`](java/annalyns-infiltration/) | Annalyn's Infiltration | Booleans, `!`, `&&`, `||`, static methods | Done |
+| [`java/annalyns-infiltration/`](java/annalyns-infiltration/) | Annalyn's Infiltration | Booleans, `!`, `&&`, `\|\|`, static methods | Done |
 | [`java/cars-assemble/`](java/cars-assemble/) | Cars, Assemble! | Constants, `if / else if / else`, `int` vs `double`, casting | Done |
 | [`java/log-levels/`](java/log-levels/) | Log Levels | Strings, `indexOf`, `substring`, `trim`, `toLowerCase` | Done |
 | [`java/salary-calculator/`](java/salary-calculator/) | Salary Calculator | Ternary operator, booleans, reusing methods | Done |
